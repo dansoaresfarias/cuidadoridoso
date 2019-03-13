@@ -2,7 +2,8 @@
 
 
 int main(){
-	
-	//system("PAUSE");
+	printf();
+	scanf();
+	system("PAUSE");
 	return 0;
 }
