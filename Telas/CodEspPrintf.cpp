@@ -8,6 +8,10 @@ int main(){
 	setlocale(LC_ALL, "Portuguese");
 	// Declarando uma variável
 	int x;
+	// Chamada da Função setlocale para mudar a tabela de caracteres de ASCII para ABNT
+	setlocale(LC_ALL, "Portuguese");
+	// Declarando uma variável
+	int x;
 	// Atribuindo uma valor para a variável
 	x = 40;
 	printf("O valor armazenado em x é %d\n\n\n", x);
