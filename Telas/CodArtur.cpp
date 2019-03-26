@@ -12,6 +12,14 @@ int main(){
 	scanf("%i", &ano);
 	printf("Digite o ano em que nasceu: \n");
 	scanf("%i", &nasceu);
+	printf("Digite o ano atual: \n");
+	scanf("%i", &ano);
+	printf("Digite o ano em que nasceu: \n");
+	scanf("%i", &nasceu);
+	printf("Digite o ano atual: \n");
+	scanf("%i", &ano);
+	printf("Digite o ano em que nasceu: \n");
+	scanf("%i", &nasceu);
 	
 	idade = ano - nasceu;
 	printf("Sua idade é %i.\n\n", idade);

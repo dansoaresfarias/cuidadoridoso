@@ -7,8 +7,7 @@ int main(){
 	// Chamada da Função setlocale para mudar a tabela de caracteres de ASCII para ABNT
 	setlocale(LC_ALL, "Portuguese");
 	
-	printf("A letra %c ", 'J');
-	printf("pronucia-se %s%c%c%c", "Jota", '.', '\n', '\n');
+	printf("%s está a %d milhões de milhas do sol.\n\n", "Venus", 67);
 	
 	system("PAUSE");
 	return 0;
